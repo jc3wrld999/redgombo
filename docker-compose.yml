@@ -5,13 +5,20 @@ services:
   # Proxies requests to internal services
   reverse-proxy:
     image: nginx:1.17.10
-    container_name: redgombo
+    container_name: reverse_proxy_demo
     depends_on:
         - redgombo-front
-
     volumes:
       - ./reverse_proxy/nginx.conf:/etc/nginx/nginx.conf
     ports:
       - 80:80
-
+  # Front
+  redgombo-front:
+    image: redgombo-front
+    container_name: redgombo-front
+    build:
+      context: ./redgombo-front
+    ports:
+      - 8080:80
+    restart: on-failure
   # Data Processing
