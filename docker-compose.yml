@@ -15,6 +15,7 @@ services:
   redgombo-front:
     build:
       context: ./redgombo-front
+      dockerfile: ./redgombo-front/Dockerfile
     ports:
       - 8080:80
     restart: on-failure
