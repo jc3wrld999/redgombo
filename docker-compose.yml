@@ -13,6 +13,8 @@ services:
       
   # Front
   redgombo-front:
+    image: redgombo-front
+    container_name: redgombo-front
     build:
       context: ../redgombo-front
       dockerfile: ../redgombo-front/Dockerfile
