@@ -4,7 +4,6 @@ import NotFound from "@/pages/NotFoundPage.vue";
 
 // Admin pages
 import UserProfile from "@/pages/UserProfile.vue";
-import TestPage from "@/pages/TestPage.vue"
 import TestPage2 from "@/pages/TestPage2.vue"
 import TestPage2 from "@/pages/TestPage3.vue"
 
@@ -18,11 +17,6 @@ const routes = [
         path: "dashboard",
         name: "dashboard",
         component: UserProfile,
-      },
-      {
-        path: "testPage",
-        name: "test Page",
-        component: TestPage,
       },
       {
         path: "testPage2",
