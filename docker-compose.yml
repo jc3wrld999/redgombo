@@ -23,7 +23,9 @@ services:
   # Data Processing
   gps-management:
     image: gps-management
-    container_name: gps-management
+    container_name: gps-managgitement
+    environment:
+        - APP_NAME=FlaskTest
     build:
       context: ./gps-management
       dockerfile: ../gps-management/Dockerfile
