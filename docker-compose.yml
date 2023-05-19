@@ -25,7 +25,8 @@ services:
     image: gps-management
     container_name: gps-management
     build:
-      context: ./gps-management/Dockerfile
+      context: ./gps-management
+      dockerfile: ../gps-management/Dockerfile
     ports:
       - 5001:5001
     restart: on-failure
