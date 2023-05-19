@@ -7,4 +7,4 @@ RUN python3 -m pip install gunicorn
 COPY . .
 EXPOSE 5001
 # CMD ["python", "app.py"]
-CMD ["gunicorn", "-w", "4", "--bind", "0.0.0.0:5001", "wsgi"]
+CMD ["gunicorn", "-b", "0.0.0.0:5001", "wsgi"]
