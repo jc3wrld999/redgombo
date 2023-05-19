@@ -1,0 +1,18 @@
+{
+    "root": true,
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "rules": {
+      "vue/multi-word-component-names": "off"
+    },
+    "env": {
+      "node": true,
+      "amd": true
+    },
+    "globals": {
+      "BUILDTIME": true
+    }
+  }
+  
