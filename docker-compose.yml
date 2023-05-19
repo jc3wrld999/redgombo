@@ -19,4 +19,13 @@ services:
     ports:
       - 8080:80
     restart: on-failure
+
   # Data Processing
+  gps-management:
+    image: gps-management
+    container_name: gps-management
+    build:
+      context: ../gps-management/Dockerfile
+    ports:
+      - 5001:5001
+    restart: on-failure
