@@ -30,8 +30,8 @@ services:
       APP_ENV: "production"
       APP_DEBUG: "True"
     build:
-      context: ../gps-management
-      dockerfile: ../gps-management/Dockerfile
+      context: /gps-management
+      dockerfile: /gps-management/Dockerfile
     command: gunicorn -w 1 -b :5001 app:app
     ports:
       - 5001:5001
