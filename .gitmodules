@@ -1,6 +1,3 @@
 [submodule "redgombo-front"]
 	path = redgombo-front
 	url = https://github.com/jc3wrld999/redgombo-front.git
-[submodule "gps-management"]
-	path = gps-management
-	url = https://github.com/jc3wrld999/gps-management.git
