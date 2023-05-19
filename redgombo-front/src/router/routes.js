@@ -4,8 +4,8 @@ import NotFound from "@/pages/NotFoundPage.vue";
 
 // Admin pages
 import UserProfile from "@/pages/UserProfile.vue";
-import TestPage2 from "@/pages/TestPage2.vue"
-import TestPage2 from "@/pages/TestPage3.vue"
+// import TestPage2 from "@/pages/TestPage2.vue"
+// import TestPage2 from "@/pages/TestPage3.vue"
 
 const routes = [
   {
@@ -18,16 +18,16 @@ const routes = [
         name: "dashboard",
         component: UserProfile,
       },
-      {
-        path: "testPage2",
-        name: "test Page2",
-        component: TestPage2,
-      },
-      {
-        path: "testPage3",
-        name: "test Page3",
-        component: TestPage3,
-      },
+      // {
+      //   path: "testPage2",
+      //   name: "test Page2",
+      //   component: TestPage2,
+      // },
+      // {
+      //   path: "testPage3",
+      //   name: "test Page3",
+      //   component: TestPage3,
+      // },
       // {
       //   path: "notifications",
       //   name: "notifications",
