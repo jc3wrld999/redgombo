@@ -15,7 +15,6 @@ services:
   redgombo-front:
     build:
       context: ../redgombo-front
-      dockerfile: ../redgombo-front/Dockerfile
     ports:
       - 8080:80
     restart: on-failure
@@ -23,12 +22,11 @@ services:
   # Data Processing
   gps-management:
     image: gps-management
-    container_name: gps-managgitement
+    container_name: gps-management
     environment:
         - APP_NAME=FlaskTest
     build:
       context: ./gps-management
-      dockerfile: ../gps-management/Dockerfile
     ports:
       - 5001:5001
     restart: on-failure
