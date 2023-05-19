@@ -4,7 +4,7 @@ RUN apt-get update || : && apt-get install python -y
 WORKDIR /app
 COPY package.json yarn.lock /app/
 RUN yarn install
-COPY . /app
+COPY . .
 RUN yarn build
 
 FROM nginx:stable-alpine
