@@ -17,7 +17,7 @@ services:
     container_name: redgombo-front
     build:
       context: ./redgombo-front
-      dockerfile: ./redgombo-front/Dockerfile
+      dockerfile: ./Dockerfile
     ports:
       - 8080:80
     restart: on-failure
@@ -30,8 +30,8 @@ services:
       APP_ENV: "production"
       APP_DEBUG: "True"
     build:
-      context: /gps-management
-      dockerfile: /gps-management/Dockerfile
+      context: ./gps-management
+      dockerfile: ./Dockerfile
     command: gunicorn -w 1 -b :5001 app:app
     ports:
       - 5001:5001
