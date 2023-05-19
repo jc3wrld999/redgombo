@@ -6,6 +6,7 @@ import NotFound from "@/pages/NotFoundPage.vue";
 import UserProfile from "@/pages/UserProfile.vue";
 import TestPage from "@/pages/TestPage.vue"
 import TestPage2 from "@/pages/TestPage2.vue"
+import TestPage2 from "@/pages/TestPage3.vue"
 
 const routes = [
   {
@@ -26,6 +27,11 @@ const routes = [
       {
         path: "testPage2",
         name: "test Page2",
+        component: TestPage2,
+      },
+      {
+        path: "testPage3",
+        name: "test Page3",
         component: TestPage2,
       },
       // {
