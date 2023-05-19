@@ -32,7 +32,7 @@ const routes = [
       {
         path: "testPage3",
         name: "test Page3",
-        component: TestPage2,
+        component: TestPage3,
       },
       // {
       //   path: "notifications",
