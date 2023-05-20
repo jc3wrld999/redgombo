@@ -20,30 +20,31 @@
         <sidebar-link to="/notifications" name="Notifications" icon="ti-bell" /> -->
       </template>
       <mobile-menu>
-        <li class="ti-ink-pen">
-          <a href = "https://medium.com/@jc3wrld999" class="nav-link">
-            <i class="ti-panel"></i>
-            <p>Medium</p>
-          </a>
-        </li>
-        <!-- <drop-down
-          class="nav-item"
-          title="5 Notifications"
-          title-classes="nav-link"
-          icon="ti-bell"
-        >
-          <a class="dropdown-item">Notification 1</a>
-          <a class="dropdown-item">Notification 2</a>
-          <a class="dropdown-item">Notification 3</a>
-          <a class="dropdown-item">Notification 4</a>
-          <a class="dropdown-item">Another notification</a>
-        </drop-down> -->
         <li class="nav-item">
-          <a href="https://github.com/jc3wrld999" class="nav-link">
-            <i class="ti-github"></i>
-            <p>GitHub</p>
-          </a>
-        </li>
+            <a href = "https://medium.com/@jc3wrld999" class="nav-link">
+              <i class="ti-ink-pen"></i>
+              <p>Medium</p>
+            </a>
+          </li>
+
+          <!-- <drop-down
+            class="nav-item"
+            title="5 Notifications"
+            title-classes="nav-link"
+            icon="ti-bell"
+          >
+            <a class="dropdown-item" href="#">Notification 1</a>
+            <a class="dropdown-item" href="#">Notification 2</a>
+            <a class="dropdown-item" href="#">Notification 3</a>
+            <a class="dropdown-item" href="#">Notification 4</a>
+            <a class="dropdown-item" href="#">Another notification</a>
+          </drop-down> -->
+          <li class="nav-item">
+            <a href="https://github.com/jc3wrld999" class="nav-link">
+              <i class="ti-github"></i>
+              <p>GitHub</p>
+            </a>
+          </li>
         <li class="divider"></li>
       </mobile-menu>
     </side-bar>
