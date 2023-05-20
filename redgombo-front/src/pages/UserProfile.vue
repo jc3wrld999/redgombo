@@ -115,7 +115,7 @@
 	    <div id="5476da9a-8a15-4923-8270-a6b27d6758d9" class="column-list">
 	      <div id="5f59536e-0286-42b6-8fd4-2d76228db29a" style="width:18.75%" class="column">
 		
-	        <p id="2c3395d2-5110-4118-a4de-0a5a55adf309" class="block-color-gray">(주) <a href="https://www.ub1st.co.kr/">유비퍼스트</a>
+	        <p id="2c3395d2-5110-4118-a4de-0a5a55adf309" class="block-color-gray">(주)유비퍼스트
 	        </p>
 	        <p id="ab8ac0db-1808-4b81-8b96-f12f348eccbc" class="">
 	          <mark class="highlight-gray">서울시 금천구</mark>
