@@ -4,8 +4,10 @@
       <template slot="links">
         <!-- <sidebar-link to="/dashboard" name="Dashboard" icon="ti-panel" /> -->
         <sidebar-link to="/index" name="Profile" />
-        <sidebar-link to="/maps" name="Map" icon="ti-map" />
-        <!-- <sidebar-link to="/testPage2" name="Test Page2" />
+        <!-- <sidebar-link to="/maps" name="Map" icon="ti-map" /> -->
+
+        <!-- <sidebar-link to="/testPage2" name="Test Page2" />y
+
         <sidebar-link to="/testPage3" name="Test Page3" /> -->
         <!-- <sidebar-link
           to="/table-list"
@@ -17,14 +19,14 @@
         <sidebar-link to="/maps" name="Map" icon="ti-map" />
         <sidebar-link to="/notifications" name="Notifications" icon="ti-bell" /> -->
       </template>
-      <!-- <mobile-menu>
-        <li class="nav-item">
-          <a class="nav-link">
+      <mobile-menu>
+        <li class="ti-ink-pen">
+          <a href = "https://medium.com/@jc3wrld999" class="nav-link">
             <i class="ti-panel"></i>
-            <p>Stats</p>
+            <p>Medium</p>
           </a>
         </li>
-        <drop-down
+        <!-- <drop-down
           class="nav-item"
           title="5 Notifications"
           title-classes="nav-link"
@@ -35,15 +37,15 @@
           <a class="dropdown-item">Notification 3</a>
           <a class="dropdown-item">Notification 4</a>
           <a class="dropdown-item">Another notification</a>
-        </drop-down>
+        </drop-down> -->
         <li class="nav-item">
-          <a class="nav-link">
-            <i class="ti-settings"></i>
-            <p>Settings</p>
+          <a href="https://github.com/jc3wrld999" class="nav-link">
+            <i class="ti-github"></i>
+            <p>GitHub</p>
           </a>
         </li>
         <li class="divider"></li>
-      </mobile-menu> -->
+      </mobile-menu>
     </side-bar>
     <div class="main-panel">
       <top-navbar></top-navbar>
