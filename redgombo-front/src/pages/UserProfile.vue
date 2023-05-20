@@ -107,19 +107,7 @@
       <ul id="5ba79022-2d62-4d51-9cf2-92beb553005f" class="bulleted-list">
         <li style="list-style-type:disc">Pytorch/Tensorflow 프레임 워크 기반 개발 스터디 경험</li>
       </ul>
-	    <p id="d8c2b1bd-ff67-4f08-99e1-4578afd63870" class=""></p>
-	    <p id="c0b8dfc2-fabe-4d36-82ce-aebafee383c3" class="">
-	      Numpy, Pandas, Pytorch
-	    </p>
-	    <ul id="ba85039d-bbce-4cb3-afb7-ee3f7e5da398" class="bulleted-list">
-	      <li style="list-style-type:disc">데이터 크롤링 및 전처리, 시각화하여 분석할 수 있음</li>
-	    </ul>
-	    <ul id="971f5619-1fe3-4ed3-802a-b16f4781706f" class="bulleted-list">
-	      <li style="list-style-type:disc">머신러닝 알고리즘 모델에 대한 개념적인 이해가 있고 학습 중</li>
-	    </ul>
-	    <ul id="5ba79022-2d62-4d51-9cf2-92beb553005f" class="bulleted-list">
-	      <li style="list-style-type:disc">Pytorch/Tensorflow 프레임 워크 기반 딥러닝 프로젝트 경험</li>
-	    </ul>
+	    
 	    <p id="ae7da84d-6b07-4af9-91d5-553259f3772b" class=""></p>
 	    <h4 id="3324350b-f0c7-4452-8044-bf632c3b2006" class="">Work Experience.</h4>
 	    <hr id="359d1b04-b748-4ae4-8a51-04d6be985d0e" />
@@ -274,22 +262,22 @@
 	    </ul>
 	    <p id="d3f25a05-82ae-4850-882e-592e5536ebdc" class="">약 714개정도의 데이터를 가져왔지만 별점이 높은 순으로 가져와서 긍정 리뷰와 부정 리뷰가 4:1의 비율로 부정 리뷰가 너무 적어서 아쉬웠습니다. 추후 Bert모델에 대해서도 공부해서 어플리케이션으로 배포하고 싶습니다.</p>
 	    <hr id="7b7ac854-309a-4958-9061-317d9248abe5" />
-	    <div id="08725519-b051-427f-aba2-f894d7059e16" class="column-list">
-	      <div id="ad2b0f58-08c6-40d0-93e0-23e7f180ec7d" style="width:33.33333333333333%" class="column">
+	    <div id="08725519-b051-427f-aba2-f894d7059e16"  class="column-list">
+	      <div id="ad2b0f58-08c6-40d0-93e0-23e7f180ec7d" style="width:20%;" class="column">
 	        <h5 id="b861b8cd-bf6a-4cf7-b992-3316e4ce2baa" class="">[Flutter] 날씨 어플</h5>
 	        <p id="9dd66ae7-c22d-4f12-b3bf-2d2ea854b40b" class=""></p>
 	      </div>
-	      <div id="9cc4d565-6535-476a-809b-cbfcf02340b3" style="width:33.33333333333334%" class="column">
+	      <div id="9cc4d565-6535-476a-809b-cbfcf02340b3" style="width:30%" class="column">
 	        <figure id="e2512570-eb06-445c-bdcf-c7652f93ac4a" class="image">
 
-	            <img style="width:180px" src="@/assets/img/portfolio/Untitled.gif" />
+	            <img style="width:200px" src="@/assets/img/portfolio/Untitled.gif" />
 
 	        </figure>
 	      </div>
-	      <div id="00c60692-c343-4a1f-b804-50f5b258c98b" style="width:33.33333333333333%" class="column">
+	      <div id="00c60692-c343-4a1f-b804-50f5b258c98b" style="width:30%" class="column">
 	        <figure id="50b6f8f5-ad45-4f89-8138-271249d9d561" class="image">
 
-	            <img style="width:180px" src="@/assets/img/portfolio/dust.gif" />
+	            <img style="width:200px" src="@/assets/img/portfolio/dust.gif" />
 	        </figure>
 	      </div>
 	    </div>
@@ -308,7 +296,7 @@
 	      <div id="a3476baa-da23-46cd-8f6c-2bddf84acb22" class="column">
 	        <figure id="c5ae884e-1914-4bb8-a35d-1384fcf16b69" class="image" style="text-align:right">
 
-	            <img style="width:576px" src="@/assets/img/portfolio/gallery_save.gif" />
+	            <img style="width:720px" src="@/assets/img/portfolio/gallery_save.gif" />
 	        </figure>
 	      </div>
 	    </div>
@@ -323,7 +311,7 @@
 	    <p id="188d431c-17c8-40ad-9ecc-8dbc1acba70f" class="">
 	      <a href="https://github.com/jc3wrld999/vehicle-management-project">https://github.com/jc3wrld999/vehicle-management-project</a>
 	    </p>
-	    <figure id="00254771-b1f3-4cdd-8b40-b36b535d777d" class="image">
+	    <figure id="00254771-b1f3-4cdd-8b40-b36b535d777d" class="image column-list">
 	      
 	        <img style="width:720px" src="@/assets/img/portfolio/Untitled.png" />
 	      
@@ -625,7 +613,7 @@ img {
 
 .column-list {
 	display: flex;
-	justify-content: space-between;
+	justify-content: start;
 }
 
 .column {
