@@ -28,50 +28,85 @@
 	    </div>
 	    <h4 id="50fca83d-05fd-4f01-8bd3-9669fd80c619" class="">Skills.</h4>
 	    <hr id="d9ca54a1-cabc-4419-ab95-5107df62a92c" />
-	    <p id="822c56a6-c216-4d4a-9147-6493b2a7b4e0" class="">
-	      HTML, CSS
-	    </p>
-	    <ul id="edfac078-2c19-42a3-ae01-a7d48a826956" class="bulleted-list">
-	      <li style="list-style-type:disc">웹표준을 준수하여 반응형 웹 퍼블리싱 가능</li>
-	    </ul>
-	    <ul id="45db8ab6-15f1-4a6d-bf1b-910fc27f044a" class="bulleted-list">
-	      <li style="list-style-type:disc">BootStrap을 통해 퍼블리싱 구현하고 Figma로 수정 가능</li>
-	    </ul>
-	    <ul id="1dc1bf56-765e-429f-813f-5c23479a3393" class="bulleted-list">
-	      <li style="list-style-type:disc">각 HTML 요소와 CSS 속성을 알고 있음</li>
-	    </ul>
-	    <p id="637a1ecc-5128-49bf-b746-9c6363bc6244" class=""></p>
-	    <p id="ee2df7de-9caf-4aa7-a60b-79697a3e1221" class="">
-	      Javascript, Typescript, Node.js, Spring boot, Java, Python
-	    </p>
-	    <ul id="cdc4fe88-da84-494c-9f74-dd409a649961" class="bulleted-list">
-	      <li style="list-style-type:disc">DOM 구조에 접근하여 속성 및 데이터 조작 가능</li>
-	    </ul>
-	    <ul id="12a2a4ff-c9db-497e-9dcc-34df9f134ba2" class="bulleted-list">
-	      <li style="list-style-type:disc">프로젝트 요구 사항에 맞게 구현할 수 있으며 다소 어려운 인터랙션은 라이브러리를 커스터마이징하여 구현 가능</li>
-	    </ul>
-	    <ul id="155b8ceb-2114-4609-9450-326d36f87311" class="bulleted-list">
-	      <li style="list-style-type:disc">동기/비동기 처리를 할 수 있으며 이벤트 루프나 호이스팅 등 자바스크립트가 가진 특성을 이해하고 있음</li>
-	    </ul>
-	    <ul id="6d19d6de-9b88-4f26-b31f-e11b4c473e38" class="bulleted-list">
-	      <li style="list-style-type:disc">웹 브라우저 렌더링과 이 과정에서 성능 개선에 대해 학습 중</li>
-	    </ul>
-	    <ul id="54068507-c061-495c-9d28-efecf818646e" class="bulleted-list">
-	      <li style="list-style-type:disc">Python으로 단위 기능 모듈(크롤링, 업무 자동화 등) 개발할 수 있음</li>
-	    </ul>
-	    <p id="2e4819b8-f04e-4223-91d8-b916c0fd90f4" class=""></p>
-	    <p id="63e5c401-2292-41b9-9bdc-425ea46ef0c9" class="">
-	      Cassandra DB, MySQL
-	    </p>
-	    <ul id="1f2788ca-258d-4f78-9cb1-d51c7d381b5c" class="bulleted-list">
-	      <li style="list-style-type:disc">JPA 방식, JDBC 방식으로 쿼리를 조작할 수 있음</li>
-	    </ul>
-	    <ul id="bbfdfea9-c096-4d5b-a0bf-cdd9a0488cdc" class="bulleted-list">
-	      <li style="list-style-type:disc">데이터 접근 성능 개선을 위한 쿼리 튜닝에 대해 알고 적용할 수 있음</li>
-	    </ul>
-	    <ul id="7fb812e4-fa48-4215-8d58-0f18b725f025" class="bulleted-list">
-	      <li style="list-style-type:disc">NoSQL의 대용량 데이터 관리에 대한 이해와 문서를 읽고 쿼리문을 작성할 수 있음</li>
-	    </ul>
+		<p id="822c56a6-c216-4d4a-9147-6493b2a7b4e0" class="">
+        <strong>HTML, CSS, Vue.js, Jsp, Thymleaf</strong>
+      </p>
+      <ul id="edfac078-2c19-42a3-ae01-a7d48a826956" class="bulleted-list">
+        <li style="list-style-type:disc">웹표준을 준수하여 반응형 웹 퍼블리싱 가능</li>
+      </ul>
+      <ul id="45db8ab6-15f1-4a6d-bf1b-910fc27f044a" class="bulleted-list">
+        <li style="list-style-type:disc">DOM 구조에 접근하여 속성 및 데이터 조작 가능</li>
+      </ul>
+      <ul id="1dc1bf56-765e-429f-813f-5c23479a3393" class="bulleted-list">
+        <li style="list-style-type:disc">SpringBoot의 JSP, Thymleaf 등 템플릿 엔진을 이용한 데이터 바인딩 가능</li>
+      </ul>
+      <ul id="4b7bab88-b7c0-4815-93bb-1962229ede80" class="bulleted-list">
+        <li style="list-style-type:disc">프로젝트 요구사항에 맞게 구현할 수 있으며 다소 어려운 인터랙션은 라이브러리를 커스터마이징하여 구현 가능</li>
+      </ul>
+      <ul id="972c67c3-3671-461c-bcca-2dd4c6e0dca6" class="bulleted-list">
+        <li style="list-style-type:disc">동기,비동기 처리를 할 수 있으며 이벤트 루프나 호이스팅 등 자바스크립트가 가진 특성을 이해하고 있음</li>
+      </ul>
+      <ul id="4949f1f7-5ec5-4e33-af0f-abc9d17c13d0" class="bulleted-list">
+        <li style="list-style-type:disc">세션 스토리지 로컬 스토리지를 활용하여 임시 데이터 관리 개발 경험</li>
+      </ul>
+      <ul id="8be75b80-cff1-456e-a061-ca41975ae373" class="bulleted-list">
+        <li style="list-style-type:disc">웹 브라우저 렌더링 성능 개선에 대해 학습 중</li>
+      </ul>
+      <p id="458ec4f6-5fb0-4bc0-83bb-7ed66ae2587c" class=""></p>
+      <p id="ee2df7de-9caf-4aa7-a60b-79697a3e1221" class="">
+        <strong>Node.js, Spring boot, Java, Python</strong>
+      </p>
+      <ul id="cdc4fe88-da84-494c-9f74-dd409a649961" class="bulleted-list">
+        <li style="list-style-type:disc">Spring MVC 패턴에 맞춰 Interface와 Dependency Injection을 사용하여 객체 지향적인 코드 작성 가능</li>
+      </ul>
+      <ul id="12a2a4ff-c9db-497e-9dcc-34df9f134ba2" class="bulleted-list">
+        <li style="list-style-type:disc">nGrinder +Pinpoint 사용하여 트래픽 성능 측정 및 병목 지점의 쿼리 코드 개선 학습중</li>
+      </ul>
+      <ul id="155b8ceb-2114-4609-9450-326d36f87311" class="bulleted-list">
+        <li style="list-style-type:disc">Netty, Spring Boot, Flask, Django 등 웹서버를 사용하여 Restful API, 소켓 통신 개발 경험</li>
+      </ul>
+      <ul id="6d19d6de-9b88-4f26-b31f-e11b4c473e38" class="bulleted-list">
+        <li style="list-style-type:disc">웹 브라우저 렌더링과 이 과정에서 성능 개선에 대해 학습 중</li>
+      </ul>
+      <ul id="54068507-c061-495c-9d28-efecf818646e" class="bulleted-list">
+        <li style="list-style-type:disc">Python이나 Node js로 단위 기능 모듈(크롤링, 업무 자동화 등) 개발 경험</li>
+      </ul>
+      <p id="2e4819b8-f04e-4223-91d8-b916c0fd90f4" class=""></p>
+      <p id="63e5c401-2292-41b9-9bdc-425ea46ef0c9" class="">
+        <strong>Cassandra DB, MySQL</strong>
+      </p>
+      <ul id="1f2788ca-258d-4f78-9cb1-d51c7d381b5c" class="bulleted-list">
+        <li style="list-style-type:disc">JPA 방식, JDBC 방식으로 쿼리를 조작할 수 있음</li>
+      </ul>
+      <ul id="4a780828-e9ae-4b00-83dd-7d59f93f4e90" class="bulleted-list">
+        <li style="list-style-type:disc">CassandraDB 복제 기능을 이용하여 부하 분산 개발 경험</li>
+      </ul>
+      <ul id="bbfdfea9-c096-4d5b-a0bf-cdd9a0488cdc" class="bulleted-list">
+        <li style="list-style-type:disc">데이터 접근 성능 개선을 위한 쿼리 튜닝에 대해 공부중</li>
+      </ul>
+      <p id="eefa375d-ba35-4e3d-95fd-b7d243aa383b" class=""></p>
+      <p id="70bd2b75-a8e5-4fd9-8988-767c4876f4da" class="">
+        <strong>Docker, Nginx, Jenkins</strong>
+      </p>
+      <ul id="ac90a4a2-a5bb-46ac-a142-f95d2aa1578a" class="bulleted-list">
+        <li style="list-style-type:disc">리버스 프록시 구축하여 포트별로 API 서버, DB 서버, 프론트엔드 서버 등 MSA 기반 개별 서비스 개발 가능</li>
+      </ul>
+      <ul id="06be4167-dca9-4318-a065-2131d1abc45a" class="bulleted-list">
+        <li style="list-style-type:disc">Jenkins Build 자동화 개발 경험</li>
+      </ul>
+      <p id="d8c2b1bd-ff67-4f08-99e1-4578afd63870" class=""></p>
+      <p id="c0b8dfc2-fabe-4d36-82ce-aebafee383c3" class="">
+        <strong>Numpy, Pandas, Pytorch</strong>
+      </p>
+      <ul id="ba85039d-bbce-4cb3-afb7-ee3f7e5da398" class="bulleted-list">
+        <li style="list-style-type:disc">데이터 크롤링 및 전처리, 시각화하여 분석할 수 있음</li>
+      </ul>
+      <ul id="971f5619-1fe3-4ed3-802a-b16f4781706f" class="bulleted-list">
+        <li style="list-style-type:disc">SVM, 의사 결정 트리 등 머신러닝 알고리즘에 대해 학습중</li>
+      </ul>
+      <ul id="5ba79022-2d62-4d51-9cf2-92beb553005f" class="bulleted-list">
+        <li style="list-style-type:disc">Pytorch/Tensorflow 프레임 워크 기반 개발 스터디 경험</li>
+      </ul>
 	    <p id="d8c2b1bd-ff67-4f08-99e1-4578afd63870" class=""></p>
 	    <p id="c0b8dfc2-fabe-4d36-82ce-aebafee383c3" class="">
 	      Numpy, Pandas, Pytorch
@@ -91,6 +126,7 @@
 	    <h5 id="a051a719-220c-4c41-9670-adee52954857" class="">경력 (총 1년 6개월)</h5>
 	    <div id="5476da9a-8a15-4923-8270-a6b27d6758d9" class="column-list">
 	      <div id="5f59536e-0286-42b6-8fd4-2d76228db29a" style="width:18.75%" class="column">
+		
 	        <p id="2c3395d2-5110-4118-a4de-0a5a55adf309" class="block-color-gray">(주) <a href="https://www.ub1st.co.kr/">유비퍼스트</a>
 	        </p>
 	        <p id="ab8ac0db-1808-4b81-8b96-f12f348eccbc" class="">
@@ -103,49 +139,44 @@
 	        <p id="c6a0e644-2a7d-4339-ba89-115c544abe45" class=""></p>
 	      </div>
 	      <div id="0836e1bb-7edb-430f-9be3-278b08da6d13" style="width:81.25%" class="column">
-	        <p id="7e69d0f9-e6c5-423c-9e29-146c1698fb31" class="">Spring Boot기반 Restful API 개발 및 GPS 데이터 시각화 담당</p>
-	        <p id="8c5af555-f972-49e2-9ae6-47fee209f556" class=""></p>
-	        <ul id="781025c7-ea4e-4828-b150-d1c60467c696" class="bulleted-list">
-	          <li style="list-style-type:disc">한국 타이어 실시간 센서 데이터 시각화 <ul id="0d1477af-1bff-44e7-823c-0eb8ffd009fd" class="bulleted-list">
-	              <li style="list-style-type:circle">JPA방식으로 Cassandra DB 연동</li>
-	            </ul>
-	            <ul id="1fda5ec1-b134-4df3-a193-417a30b80e77" class="bulleted-list">
-	              <li style="list-style-type:circle">조회 데이터 datatable 형태로 시각화</li>
-	            </ul>
-	            <ul id="d75e13b6-5486-4650-af24-dff86debb189" class="bulleted-list">
-	              <li style="list-style-type:circle">Thymleaf 템플릿을 활용하여 데이터 렌더링</li>
-	            </ul>
-	          </li>
-	        </ul>
-	        <ul id="e12b5648-c3b1-40fd-af72-a1701f2dd6cb" class="bulleted-list">
-	          <li style="list-style-type:disc">한국 환경 공단 폐기물 데이터 Rest API 개발 <ul id="ebe922ab-fb5d-43a5-b3f2-bb4e34da6046" class="bulleted-list">
-	              <li style="list-style-type:circle">폐기물, 차량 데이터 관련 요청 응답 REST API 개발</li>
-	            </ul>
-	            <ul id="4f72108d-6c82-4c39-a289-6203fe9d5ce0" class="bulleted-list">
-	              <li style="list-style-type:circle">spring boot 내장 tomcat 튜닝으로 쓰레드 개수 조절</li>
-	            </ul>
-	            <ul id="21c4b270-4053-4c33-8164-a62681c9e9dd" class="bulleted-list">
-	              <li style="list-style-type:circle">Postman으로 CRUD 기능 테스트</li>
-	            </ul>
-	            <ul id="6496db0a-ea59-41ad-9ac7-322745bc1aa7" class="bulleted-list">
-	              <li style="list-style-type:circle">Swagger를 이용한 API 명세서 작성</li>
-	            </ul>
-	          </li>
-	        </ul>
-	        <ul id="f0f51de1-b133-4c1b-bc67-e83168fd30c7" class="bulleted-list">
-	          <li style="list-style-type:disc">공공 데이터 포털 API 분석, 커스터마이징 <ul id="67ba0862-0cf1-4fb4-aa81-b0c17c347483" class="bulleted-list">
-	              <li style="list-style-type:circle">공공 데이터 포털의 서울시 버스 api를 사용하여 개발</li>
-	            </ul>
-	            <ul id="35d2c552-1a93-4e90-ac6d-53a18ee99ac4" class="bulleted-list">
-	              <li style="list-style-type:circle">지도 라이브러리 커스터마이징</li>
-	            </ul>
-	            <ul id="7a34909d-ec78-4463-944f-96300f01f200" class="bulleted-list">
-	              <li style="list-style-type:circle">Docker에서 Jenkins로 빌드</li>
-	            </ul>
-	          </li>
-	        </ul>
-	      </div>
-	    </div>
+          <p id="7e69d0f9-e6c5-423c-9e29-146c1698fb31" class="">Spring Boot기반 Restful API 개발 및 GPS 데이터 시각화 담당</p>
+          <p id="8c5af555-f972-49e2-9ae6-47fee209f556" class=""></p>
+          <ul id="ac93b321-4139-4a5f-9ce7-2ae914616779" class="bulleted-list">
+            <li style="list-style-type:disc">한국 타이어 실시간 센서 데이터 시각화 <ul id="a1a837e7-cd00-46aa-9f78-6ca858a3f7c3" class="bulleted-list">
+                <li style="list-style-type:circle">spring-boot + jpa + CassandraDB 기반 데이터 처리</li>
+              </ul>
+              <ul id="7c4200d6-e7ef-4693-b0e2-b646fd476486" class="bulleted-list">
+                <li style="list-style-type:circle">Thymleaf 템플릿기반 데이터 렌더링 및 부트스트랩을 활용하여 개발</li>
+              </ul>
+            </li>
+          </ul>
+          <ul id="0219cd7b-ef9b-434f-beb5-e5e438b96ded" class="bulleted-list">
+            <li style="list-style-type:disc">한국 환경 공단 폐기물 데이터 Rest API 개발 <ul id="a39faf2e-4377-4104-a8f5-3a61e06cabad" class="bulleted-list">
+                <li style="list-style-type:circle">폐기물 데이터에 대해 GET,POST,PUT,DELETE 작업을 수행하는 restful api 개발</li>
+              </ul>
+              <ul id="66586570-53e4-4f46-962d-9708c86ed6a2" class="bulleted-list">
+                <li style="list-style-type:circle">nGrinder +Pinpoint를 사용하여 동접 성능 측정</li>
+              </ul>
+              <ul id="bec36fb3-63f8-4375-b3be-71f2a2c57dbd" class="bulleted-list">
+                <li style="list-style-type:circle">Swagger를 이용한 API 명세서 작성</li>
+              </ul>
+              <ul id="4b5329dc-c806-4e02-9583-a7c2a6dc022d" class="bulleted-list">
+                <li style="list-style-type:circle">Docker-copmpose, Nginx기반 리버스 프록시 구축, 기능을 컨테이너별로 개발</li>
+              </ul>
+            </li>
+          </ul>
+          <ul id="4a4b04d2-ea6f-434e-930d-24d29fff3698" class="bulleted-list">
+            <li style="list-style-type:disc">공공 데이터 포털 API 연동 커스터마이징 <ul id="f285ce1e-5d3e-494a-8c21-3f8c062dd21f" class="bulleted-list">
+                <li style="list-style-type:circle">지도 라이브러리 커스터 마이징하여 GPS 데이터 시각화</li>
+              </ul>
+              <ul id="b82421f8-3549-4b25-888d-9ee0b7d977a2" class="bulleted-list">
+                <li style="list-style-type:circle">Jenkins + Git + Docker기반 빌드 자동화 세팅</li>
+              </ul>
+              <p id="c60d284d-7ffd-4f45-a6bb-86f7bcd1bc7a" class=""></p>
+            </li>
+          </ul>
+        </div>
+      </div>
 	    <div id="866824e3-e87f-4a83-afef-8e09301721a9" class="column-list">
 	      <div id="5b664517-271a-4113-b4e7-f154dd2a6ea0" style="width:18.75%" class="column">
 	        <p id="fbf4f594-6b99-4008-a7f4-6d68860c4567" class="block-color-gray">(주)대교CNS</p>
@@ -167,47 +198,45 @@
 	        </figure>
 	        <p id="48383bf6-130e-4258-957f-f12e4640e774" class=""></p>
 	      </div>
-	      <div id="939db85e-7e93-4b66-8b82-c49ed54b2170" style="width:81.25%" class="column">
-	        <p id="982b40e5-3279-480d-8a69-69867e429e7b" class="">전자정부프레임워크 기반 웹사이트 개발</p>
-	        <p id="c1aa9355-ccb1-4107-802c-6bd4fb0f367f" class=""></p>
-	        <ul id="2282c58f-05f8-4d41-8070-59906332545d" class="bulleted-list">
-	          <li style="list-style-type:disc">온라인 교육 전용 반응형 Web 프로젝트 개발 <ul id="07562b6c-f134-4915-8221-7e7d82043e73" class="bulleted-list">
-	              <li style="list-style-type:circle">DB 설계, 프로그램 로직 설계, 사용자 로직 설계</li>
-	            </ul>
-	            <ul id="878eb1a8-37c6-472d-997b-143f91331a92" class="bulleted-list">
-	              <li style="list-style-type:circle">화면 UI/UX 설계 디자이너와 협업 및 개발</li>
-	            </ul>
-	            <ul id="24cbba22-2f1d-4782-aba5-e1dba5e05acb" class="bulleted-list">
-	              <li style="list-style-type:circle">Jenkins를 이용한 CI/CD</li>
-	            </ul>
-	          </li>
-	        </ul>
-	        <ul id="e38ad0e8-c693-401a-81ad-7575e038ea76" class="bulleted-list">
-	          <li style="list-style-type:disc">Naver 책 검색 API 연동 <ul id="853d34a3-42ec-4704-9883-5d8954957abf" class="bulleted-list">
-	              <li style="list-style-type:circle">Naver 책검색 API 연동</li>
-	            </ul>
-	            <ul id="fe0d0384-deb3-4410-b61f-2b544d56c203" class="bulleted-list">
-	              <li style="list-style-type:circle">ajax로 json 데이터 파싱하고 페이징 처리</li>
-	            </ul>
-	          </li>
-	        </ul>
-	        <ul id="90e6f6d3-c794-4a1a-98e5-554423572ffa" class="bulleted-list">
-	          <li style="list-style-type:disc">마이페이지, 즐겨찾기, QnA 페이지 게시판 구현 <ul id="7cb4fadd-4f13-4920-9fa7-1ab55556b30d" class="bulleted-list">
-	              <li style="list-style-type:circle">화면 전환하는 UI Library를 커스터마이징하여 슬라이딩 ui 구현</li>
-	            </ul>
-	            <ul id="c88a942c-fc71-4fea-a6a8-f572b939a596" class="bulleted-list">
-	              <li style="list-style-type:circle">정규 표현식을 사용하여 유효성 검사 후 CRUD 처리</li>
-	            </ul>
-	            <ul id="88bb418d-cac8-4699-828f-51dca30fb2aa" class="bulleted-list">
-	              <li style="list-style-type:circle">인덱싱, 힌트 등을 이용하여 조회 성능 개선</li>
-	            </ul>
-	            <ul id="efef7004-9ee2-4798-8ff9-1d26c747d6d0" class="bulleted-list">
-	              <li style="list-style-type:circle">중복 쿼리문을 DB에 사용자 정의 함수로 생성</li>
-	            </ul>
-	          </li>
-	        </ul>
-	      </div>
-	    </div>
+		  <div id="939db85e-7e93-4b66-8b82-c49ed54b2170" style="width:81.25%" class="column">
+          <p id="982b40e5-3279-480d-8a69-69867e429e7b" class="">전자정부프레임워크 기반 웹사이트 개발</p>
+          <p id="c1aa9355-ccb1-4107-802c-6bd4fb0f367f" class=""></p>
+          <ul id="2282c58f-05f8-4d41-8070-59906332545d" class="bulleted-list">
+            <li style="list-style-type:disc">온라인 교육 전용 반응형 Web 프로젝트 개발 <ul id="95f5115f-327a-4c26-8176-c28c6ecac216" class="bulleted-list">
+                <li style="list-style-type:circle">전자정부프레임워크 + mybatis + MSSQL 기반 데이터 처리</li>
+              </ul>
+              <ul id="1431884f-8a16-4786-8887-3965c09e7009" class="bulleted-list">
+                <li style="list-style-type:circle">jsp template으로 데이터 렌더링 및 UI/UX 디자이너와 협업하여 개발</li>
+              </ul>
+              <ul id="24cbba22-2f1d-4782-aba5-e1dba5e05acb" class="bulleted-list">
+                <li style="list-style-type:circle">Jenkins를 이용한 CI/CD</li>
+              </ul>
+            </li>
+          </ul>
+          <ul id="e38ad0e8-c693-401a-81ad-7575e038ea76" class="bulleted-list">
+            <li style="list-style-type:disc">Naver 책 검색 API 연동 <ul id="853d34a3-42ec-4704-9883-5d8954957abf" class="bulleted-list">
+                <li style="list-style-type:circle">Naver 책검색 API 연동</li>
+              </ul>
+              <ul id="fe0d0384-deb3-4410-b61f-2b544d56c203" class="bulleted-list">
+                <li style="list-style-type:circle">ajax로 json 데이터 파싱하고 페이징 처리</li>
+              </ul>
+            </li>
+          </ul>
+          <ul id="90e6f6d3-c794-4a1a-98e5-554423572ffa" class="bulleted-list">
+            <li style="list-style-type:disc">마이페이지, 즐겨찾기, QnA 페이지 게시판 구현 <ul id="7cb4fadd-4f13-4920-9fa7-1ab55556b30d" class="bulleted-list">
+                <li style="list-style-type:circle">화면 전환하는 UI Library를 커스터마이징하여 슬라이딩 ui 구현</li>
+              </ul>
+              <ul id="c88a942c-fc71-4fea-a6a8-f572b939a596" class="bulleted-list">
+                <li style="list-style-type:circle">정규 표현식을 사용하여 사용자 입력에 대한 유효성 검사</li>
+              </ul>
+              <ul id="efef7004-9ee2-4798-8ff9-1d26c747d6d0" class="bulleted-list">
+                <li style="list-style-type:circle">중복 쿼리문을 DB에 사용자 정의 함수로 작성하고 동적쿼리문을 사용하여 보안 및 코드 가독성 개선</li>
+              </ul>
+              <p id="0a97f580-6f2f-4fb4-9092-e695d38af750" class=""></p>
+            </li>
+          </ul>
+        </div>
+      </div>
 	    <h4 id="b843d773-2b62-4ef0-98dd-663da5431b2c" class="">
 	      Projects.
 	    </h4>
