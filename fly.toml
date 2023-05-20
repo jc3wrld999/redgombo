@@ -6,7 +6,7 @@
 app = "redgombo"
 primary_region = "nrt"
 [build]
-  image = "jc3wrld999/redgombo:1.0"
+  image = "jc3wrld999/redgombo-front:1.8"
 [http_service]
   internal_port = 80
   force_https = true

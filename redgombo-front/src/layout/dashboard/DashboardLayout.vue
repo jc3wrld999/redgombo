@@ -3,7 +3,8 @@
     <side-bar>
       <template slot="links">
         <!-- <sidebar-link to="/dashboard" name="Dashboard" icon="ti-panel" /> -->
-        <sidebar-link to="/dashboard" name="Profile" />
+        <sidebar-link to="/index" name="Profile" />
+        <sidebar-link to="/maps" name="Map" icon="ti-map" />
         <!-- <sidebar-link to="/testPage2" name="Test Page2" />
         <sidebar-link to="/testPage3" name="Test Page3" /> -->
         <!-- <sidebar-link
@@ -16,7 +17,7 @@
         <sidebar-link to="/maps" name="Map" icon="ti-map" />
         <sidebar-link to="/notifications" name="Notifications" icon="ti-bell" /> -->
       </template>
-      <mobile-menu>
+      <!-- <mobile-menu>
         <li class="nav-item">
           <a class="nav-link">
             <i class="ti-panel"></i>
@@ -42,7 +43,7 @@
           </a>
         </li>
         <li class="divider"></li>
-      </mobile-menu>
+      </mobile-menu> -->
     </side-bar>
     <div class="main-panel">
       <top-navbar></top-navbar>

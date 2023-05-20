@@ -6,16 +6,17 @@ import NotFound from "@/pages/NotFoundPage.vue";
 import UserProfile from "@/pages/UserProfile.vue";
 // import TestPage2 from "@/pages/TestPage2.vue"
 // import TestPage2 from "@/pages/TestPage3.vue"
+import Maps from "@/pages/Maps.vue";
 
 const routes = [
   {
     path: "/",
     component: DashboardLayout,
-    redirect: "/dashboard",
+    redirect: "/index",
     children: [
       {
-        path: "dashboard",
-        name: "dashboard",
+        path: "index",
+        name: "index",
         component: UserProfile,
       },
       // {
@@ -38,11 +39,11 @@ const routes = [
       //   name: "icons",
       //   component: Icons,
       // },
-      // {
-      //   path: "maps",
-      //   name: "maps",
-      //   component: Maps,
-      // },
+      {
+        path: "maps",
+        name: "maps",
+        component: Maps,
+      },
       // {
       //   path: "typography",
       //   name: "typography",
