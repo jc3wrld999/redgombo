@@ -16,12 +16,13 @@
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
 
-          <li class="ti-ink-pen">
-          <a href = "https://medium.com/@jc3wrld999" class="nav-link">
-            <i class="ti-panel"></i>
-            <p>Medium</p>
-          </a>
-        </li>
+          <li class="nav-item">
+            <a href = "https://medium.com/@jc3wrld999" class="nav-link">
+              <i class="ti-ink-pen"></i>
+              <p>Medium</p>
+            </a>
+          </li>
+
           <!-- <drop-down
             class="nav-item"
             title="5 Notifications"
@@ -35,11 +36,11 @@
             <a class="dropdown-item" href="#">Another notification</a>
           </drop-down> -->
           <li class="nav-item">
-          <a href="https://github.com/jc3wrld999" class="nav-link">
-            <i class="ti-github"></i>
-            <p>GitHub</p>
-          </a>
-        </li>
+            <a href="https://github.com/jc3wrld999" class="nav-link">
+              <i class="ti-github"></i>
+              <p>GitHub</p>
+            </a>
+          </li>
         </ul>
       </div>
     </div>
